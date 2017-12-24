@@ -43,25 +43,37 @@ Perform a weather check on each of the cities using a series of successive API c
 
 ### Latitude vs Temperature Plot
 
+Show the figure
+
 ![png](HW_WeatherPy_files/HW_WeatherPy_22_0.png)
 
 
+#### Conclusions:
+
+The temperature along Latitude chart clearly represents that the cities close by or in the zone between the tropics of capricorn and cancer (-23.5 , 23.5) , including the equator line, have the higher temperatures. So, It is possible to come a conclusion that temperature gets hotter as it approaches the equator.
+
 ### Longitude vs Temperature Plot
 
-![png](HW_WeatherPy_files/HW_WeatherPy_24_0.png)
+
+![png](HW_WeatherPy_files/HW_WeatherPy_25_0.png)
 
 
 ### Humidity (%) vs. Latitude
 
-![png](HW_WeatherPy_files/HW_WeatherPy_26_1.png)
+![png](HW_WeatherPy_files/HW_WeatherPy_27_1.png)
 
+### Conclusions:
+
+The Humidity along Latitude chart shows that humidity of a city is not related to the latitude at all. We can find cities with different latitudes with high percentage of humidity.
 
 ### Cloudiness (%) vs. Latitude
 
-![png](HW_WeatherPy_files/HW_WeatherPy_28_0.png)
-
+![png](HW_WeatherPy_files/HW_WeatherPy_30_0.png)
 
 ### Wind Speed (mph) vs. Latitude
 
-![png](HW_WeatherPy_files/HW_WeatherPy_30_0.png)
+![png](HW_WeatherPy_files/HW_WeatherPy_32_0.png)
 
+### Conclusions:
+
+The Win speed along Latitude chart shows that the win speed is not too related to the latitude. Most of our sample cities have low wind speed. 
