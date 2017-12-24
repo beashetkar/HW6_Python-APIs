@@ -16,7 +16,7 @@ Wind Speed (mph) vs. Latitude
 
 The  HW_WeatherPy.ipbn notebook includes:
 
-### The Following Dependencies
+### the following dependencies: 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -27,7 +27,7 @@ from datetime import datetime
 import openweathermapy.core as ow
 from citipy import citipy
 
-### CALL THE FOLLOWING FUNCTIONS: 
+### Call the following functions: 
 
 1) coordinates_func():
 2) first_upper(s):
